@@ -1,5 +1,6 @@
 # RAG Chatbot Backend
 
+[![▶️ Watch the Demo Video](https://cdn.pixabay.com/photo/2021/01/19/14/18/youtube-5931353_1280.jpg)](https://youtu.be/S_lvUw1fzWA)
 A comprehensive backend service for a RAG (Retrieval-Augmented Generation) powered chatbot system that ingests news articles, generates embeddings, and provides intelligent conversational AI responses.
 
 ## Features
